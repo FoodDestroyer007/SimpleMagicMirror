@@ -23,7 +23,6 @@ The goal of this project was to create a functional smart mirror while gaining h
 | Software | Smart-mirror interface, AI assistant integration, music playback, weather data integration |
 | Technical Skills | Linux configuration, hardware/software integration, troubleshooting, system setup |
 
-> **Note:** Add the specific programming languages, frameworks, APIs, and services used in your implementation here. Avoid listing technologies that were not actually used.
 
 ## How It Works
 
@@ -43,7 +42,7 @@ The goal of this project was to create a functional smart mirror while gaining h
 
 ## Setup and Installation
 
-This repository documents the project. **Installation commands and dependencies depend on the specific implementation** and should be added when the source code is uploaded.
+This repository documents the project. **Installation commands and dependencies depend on the specific implementation**
 
 1. Install and configure a compatible Linux-based operating system on the Raspberry Pi.
 2. Connect and configure the display and any audio hardware.
@@ -51,13 +50,6 @@ This repository documents the project. **Installation commands and dependencies 
 4. Configure weather, music, and AI assistant integrations as applicable.
 5. Start the application and verify that the features work correctly.
 
-### Configuration and Security
-
-Keep API keys, tokens, and other credentials out of the repository. Use environment variables or a local configuration file excluded by `.gitignore` when applicable.
-
-## Screenshots / Demo
-
-Add screenshots or a short demonstration video showing the mirror's interface, weather display, music controls, and AI assistant interaction.
 
 ## Challenges and Learning Outcomes
 
@@ -71,14 +63,4 @@ This project provided practical experience in:
 ## Resume Description
 
 > Designed and developed a custom Linux-based Magic Mirror on a Raspberry Pi 4, integrating real-time weather updates, music playback, and an AI assistant into an interactive display.
-
-## Future Improvements
-
-- Improve the interface and user experience.
-- Expand AI assistant functionality.
-- Add additional widgets or smart-home integrations.
-- Document reproducible installation and startup steps.
-
-## Project Status
-
-Portfolio documentation. Add source code, configuration examples, and demo media as they become available.
+> 
